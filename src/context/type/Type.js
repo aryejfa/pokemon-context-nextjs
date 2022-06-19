@@ -1,0 +1,5 @@
+export const LIST_POKEMON = "LIST_POKEMON";
+export const DETAIL_POKEMON = "DETAIL_POKEMON";
+export const IMAGE_POKEMON = "IMAGE_POKEMON";
+export const SPECIES_POKEMON = "SPECIES_POKEMON";
+export const URL_POKEMON = "URL_POKEMON";
